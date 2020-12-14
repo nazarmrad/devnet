@@ -1,0 +1,8 @@
+user:
+  name: john
+  location:
+    city: Austin
+    state: TX
+  roles:
+    - admin
+    - user
